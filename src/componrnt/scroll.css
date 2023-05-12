@@ -1,0 +1,35 @@
+/* .scroll-wrap {
+    height: 300vh;
+    background: lightgray;
+    padding-top: 55px;
+  }
+  
+  .scroll-item {
+    height: 60vh;
+    background: lightcyan;
+    margin: 10px;
+    opacity: 0.2;
+  }
+  
+  .scroll-item--active {
+    opacity: 1;
+  } */
+  div#example {
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 50px auto;
+    background: rgb(0, 0, 0);
+  }
+  
+  body {
+    padding-bottom: 1000px;
+  }
+  p {
+    margin: 0;
+    color:black;
+  }
+  d {
+    color: aqua;
+  }
+  
